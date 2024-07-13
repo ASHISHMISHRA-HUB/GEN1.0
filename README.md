@@ -1,4 +1,4 @@
-# Gen-Ai - A Modern Fullstack SaaS-Platform
+# Gen-1.0 - A Modern Fullstack SaaS-Platform
 
 Built with the Next.js 13.5 App Router, tRPC, TypeScript, Prisma & Tailwind
 
